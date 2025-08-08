@@ -1,0 +1,117 @@
+Name,MarketSymbol,Owner
+Hermes,OTCPK:HESA.Y,Elaine
+Netflix,NasdaqGS:NFLX,Elaine
+Duolingo,NASDAQGS:DUOL,Elaine
+MercadoLibre,NASDAQGS:MELI,Leslie
+Flutter Entertainment,NYSE:FLUT,Leslie
+NIKE,NYSE:NKE,Leslie
+Restaurant Brands Intl,NYSE:QSR,Leslie
+Estee Lauder,NYSE:EL,Elaine
+Luckin Coffee,OTCPK:LKNC.Y,Eric
+Yatsen,NYSE:YSG,Elaine
+Lululemon,NASDAQGS:LULU,Elaine
+On,NYSE:ONON,Leslie
+Coca Cola,NYSE:KO,Eric
+LVMH,OTCPK:LVMU.Y,Elaine
+Disney,NYSE:DIS,Elaine
+Amazon,NasdaqGS:AMZN,Eric
+Meta,NasdaqGS:META,Eric
+Alphabet,NasdaqGS:GOOGL,Eric
+Costco,NasdaqGS:COST,Elaine
+Walmart,NYSE:WMT,Elaine
+Shopify,NASDAQGS:SHOP,Elaine
+DoorDash,NASDAQGS:DASH,Elaine
+Reddit,NYSE:RDDT,Elaine
+Airbnb,NasdaqGS:ABNB,Eric
+Sea,NYSE:SE,Eric
+PDD,NASDAQGS:PDD,Eric
+Pony.ai,NASDAQGS:Pony,Eric
+Fair Isaac,NYSE:FICO,Leslie
+Zillow,NASDAQGS:ZG,Leslie
+Hertz Global,NASDAQGS:HTZ,Leslie
+Copart,NASDAQGS:CPRT,Leslie
+Gaotu,NYSE:GOTU,Elaine
+MMYT,NASDAQGS:MMYT,Eric
+TAL,NYSE:TAL,Elaine
+Xunlei Limited,NASDAQGS:XNET,Eric
+HUYA,NYSE:HUYA,Eric
+Vipshop Holdings,NYSE:VIPS,Eric
+CIRCLE,NYSE:CRCL,Elaine
+Booking Holdings,NASDAQGS:BKNG,Eric
+Robinhood,NASDAQGS:HOOD,Elaine
+Apple,NASDAQGS:AAPL,Elaine
+Tesla,NASDAQGS:TSLA,Eric
+Microsoft,NASDAQGS:MSFT,Elaine
+Nvidia,NASDAQGS:NVDA,Eric
+TSMC,NYSE:TSM,Elaine
+Broadcom,NasdaqGS:AVGO,Eric
+Marvell,NasdaqGS:MRVL,Eric
+ARM,NasdaqGS:ARM,Elaine
+Arista,NYSE:ANET,Eric
+Oracle,NYSE:ORCL,Elaine
+SAP,NYSE:SAP,Elaine
+Snowflake,NYSE:SNOW,Elaine
+Salesforce,NYSE:CRM,Elaine
+AppLovin,NASDAQGS:APP,Elaine
+ServiceNow,NYSE:NOW,Eric
+Hesai,NASDAQGS:HSAI,Elaine
+Nextracker,NASDAQGS:NXT,Leslie
+Tempus AI,NASDAQGS:TEM,Leslie
+Intuitive Surgical,NASDAQGS:ISRG,Leslie
+DexCom,NASDAQGS:DXCM,Leslie
+Glaukos,NYSE:GKOS,Leslie
+Establishment Labs Hldgs,NASDAQCM:ESTA,Leslie
+Coherent,NYSE:COHR,Eric
+Infineon,XTRA:IFX,Elaine
+Lumentum,NASDAQGS:LITE,Eric
+NIO,NYSE:NIO,Leslie
+TME,NYSE:TME,Leslie
+Uber,NYSE:UBER,Leslie
+Wolfspeed,NYSE:WOLF,Eric
+AMD,NASDAQGS:AMD,Eric
+ASML,NASDAQGS:ASML,Elaine
+DELL,NYSE:DELL,Elaine
+Vertiv,NYSE:VRT,Eric
+Eaton,NYSE:ETN,Eric
+Amphenol,NYSE:APH,Eric
+Zoom,NASDAQGS:ZM,Elaine
+PayPal,NASDAQGS:PYPL,Eric
+Palantir,NASDAQGS:PLTR,Elaine
+Unity,NYSE:U,Eric
+Roblox,NYSE:RBLX,Elaine
+MARA Holdings,NASDAQCM:MARA,Eric
+Micron,NASDAQGS:MU,Elaine
+Fortinet,NASDAQGS:FTNT,Elaine
+Crowdstrike,NASDAQGS:CRWD,Elaine
+Palo Alto Networks,NASDAQGS:PANW,Elaine
+Qualcomm,NASDAQGS:QCOM,Elaine
+Coinbase,NASDAQGS:COIN,Leslie
+Adobe,NASDAQGS:ADBE,Elaine
+MicroStrategy Incorporated,NASDAQGS:MSTR,Elaine
+Texas Instruments,NASDAQGS:TXN,Elaine
+Analog Devices,NASDAQGS:ADI,Elaine
+ON Semiconductor,NASDAQGS:ON,Elaine
+Credo Technology,NASDAQGS:CRDO,Elaine
+Celestica,TSX:CLS,Elaine
+Figma,NYSE:FIG,Leslie
+Abbvie,NYSE:ABBV,Leslie
+Grail,NASDAQGS:GRAL,Leslie
+Roche,SWX:ROG,Leslie
+Moderna,NASDAQGS:MRNA,Leslie
+Novo Nordisk,NYSE:NVO,Leslie
+Eli Lilly,NYSE:LLY,Leslie
+CRISPR,NASDAQGM:CRSP,Leslie
+Illumina,NASDAQGS:ILMN,Leslie
+Fastenal,NASDAQGS:FAST,Leslie
+GDS,NASDAQGM:GDS,Eric
+Nu Holdings,NYSE:NU,Leslie
+JP Morgan,NYSE:JPM,Leslie
+FUTU,NASDAQGM:FUTU,Elaine
+CME Group,NASDAQGS:CME,Eric
+Chevron,NYSE:CVX,Elaine
+First Solar,NASDAQGS:FSLR,Eric
+Occidental,NYSE:OXY,Elaine
+Brookfield,NYSE:BN,Leslie
+Destiny Tech100 (Space X),NYSE:DXYZ,Eric
+Berkshire Hathaway,NYSE:BRK.A,Jeffrey
+India 50 ETF,NASDAQGM:INDY,Eric
