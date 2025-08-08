@@ -194,4 +194,6 @@ def build_text(by_region: dict[str, pd.DataFrame], owners: list[str]) -> str:
             if not sel_idx_hi.empty:
                 idx_parts.append(fmt_pairs(sel_idx_hi, "Price Index (0-1)"))
             if not sel_idx_lo.empty:
-                # 低分位同样按从低到高或从高到低都行，这里保持降序即可
+    # 低分位同样按从低到高或从高到低都行，这里保持降序即可
+    idx_parts.append(fmt_pairs(sel_idx_lo, "Price Index (0-1)"))
+
