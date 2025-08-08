@@ -1,0 +1,28 @@
+name: fetch-signals
+
+on:
+  schedule:
+    - cron: "0 1 * * 1-5"   # Weekdays 01:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run fetch
+        run: python fetch.py
+      - name: Commit artifacts
+        run: |
+          git config user.name "signals-bot"
+          git config user.email "signals-bot@users.noreply.github.com"
+          git add docs/daily_summary.txt docs/signals_us.csv docs/signals_cn_hk.csv
+          git commit -m "update signals" || echo "no changes"
+          git push
